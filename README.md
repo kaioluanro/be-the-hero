@@ -1,4 +1,4 @@
-# Be-the-Hero
+# Be the Hero
 
 Project developed during the week Omnistack, teaches by Rocketseet.
 
